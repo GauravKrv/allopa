@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/allopa/static/css/main.7a815947.chunk.css",
+    "main.js": "/allopa/static/js/main.6adbb286.chunk.js",
+    "main.js.map": "/allopa/static/js/main.6adbb286.chunk.js.map",
+    "runtime-main.js": "/allopa/static/js/runtime-main.a0a6edda.js",
+    "runtime-main.js.map": "/allopa/static/js/runtime-main.a0a6edda.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/allopa/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.670fdb07.chunk.js": "/allopa/static/js/2.670fdb07.chunk.js",
+    "static/js/2.670fdb07.chunk.js.map": "/allopa/static/js/2.670fdb07.chunk.js.map",
+    "index.html": "/allopa/index.html",
+    "precache-manifest.41493896a4b6e4d511dcc28a3f829212.js": "/allopa/precache-manifest.41493896a4b6e4d511dcc28a3f829212.js",
+    "service-worker.js": "/allopa/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/allopa/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.7a815947.chunk.css.map": "/allopa/static/css/main.7a815947.chunk.css.map",
+    "static/js/2.670fdb07.chunk.js.LICENSE.txt": "/allopa/static/js/2.670fdb07.chunk.js.LICENSE.txt",
+    "static/media/app.jpeg": "/allopa/static/media/app.70cea92a.jpeg",
+    "static/media/blockchain.jpeg": "/allopa/static/media/blockchain.f3564ebd.jpeg",
+    "static/media/cybersecurity.jpg": "/allopa/static/media/cybersecurity.9c148e13.jpg",
+    "static/media/hero-img.jpg": "/allopa/static/media/hero-img.e4fdfe88.jpg",
+    "static/media/img2.svg": "/allopa/static/media/img2.6ad60d0b.svg",
+    "static/media/more.jpg": "/allopa/static/media/more.84a96f10.jpg",
+    "static/media/s1.jpg": "/allopa/static/media/s1.1192a86d.jpg",
+    "static/media/software.jpeg": "/allopa/static/media/software.43049cae.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0a6edda.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.670fdb07.chunk.js",
+    "static/css/main.7a815947.chunk.css",
+    "static/js/main.6adbb286.chunk.js"
+  ]
+}
